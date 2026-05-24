@@ -1,5 +1,5 @@
 During buildup and teardown, EMF is a construction site, and we are legally responsible for your safety.
-While you're on site, we expect you to follow the [code of conduct](/code-of-conduct) and these
+While you're on site, we expect you to follow the [code of conduct](/code-of-conduct) the sit induction and these
 safety rules. If you don't, we may have to ask you to leave the site.
 
 ## General Information
@@ -30,18 +30,18 @@ If someone challenges you about safety, don't take it personally - everyone shou
 safety at EMF.
 
 If you have any questions or concerns about safety, please talk to Will or Russ, who are responsible for safety on site.
-They will always take your concerns seriously and will deal with them in confidence.
+They will always take your concerns seriously and will deal with them in confidence. We will always take safety seriously.
 
 ### Children & Pets
 
-For everone's safety, pets and children under the age of 16 are not allowed on site at any time during buildup or teardown.
+For everone's safety and to comply with our legal requirements, pets and children under the age of 16 are not allowed on site at any time during buildup or teardown.
 
-Young people between the ages of 16 and 18 are allowed on site with prior permission only. Please email [volunteers@emfcamp.org](mailto:volunteers@emfcamp.org) to check if this is possible.
+Young people between the ages of 16 and 18 are only allowed on site with prior permission only. Please email [volunteers@emfcamp.org](mailto:volunteers@emfcamp.org) to check if this is possible.
 
-### High-Vis
+### High-Vis 
 
 After arriving on site for buildup or teardown, please visit the Logistics tent and let us know who you are. We'll issue you with a
-high-vis vest, which should be worn **at all times** while you're walking around the site.
+high-vis vest, which must be worn **at all times** while you're walking around the site.
 
 Please return all high-vis at the end of buildup on Wednesday. EMF high-vis must not be worn or carried visibly
 during the event unless you've been asked to wear it for a volunteer role.
@@ -49,29 +49,29 @@ during the event unless you've been asked to wear it for a volunteer role.
 ### Vehicle Safety
 
 - Make eye contact with drivers - this lets them know you've seen them
-- Give construction plant and large vehicles a wide berth - beware of blind spots (especially with construction vehicles)
-- Do not drive construction plant unless you have been specifically authorised to do so
+- Give construction plant and large vehicles a wide berth, respect exculsion zones and beware of blind spots (especially with construction vehicles)
+- Do not drive construction plant unless you have been specifically authorised and trained to do so
 - Do not exceed the posted speed limits
 - Do not jump off moving vehicles. You'll get injured and feel silly.
-- Do not use hazard lights while moving - use indicators as normal.
+- Do not use hazard lights while moving, use indicators as normal.
 
 ### Footwear
 
 A surprisingly large number of injuries during buildup and teardown are caused by inappropriate footwear. If you're wearing
 grossly inappropriate footwear we will not allow you to work.
 
-If you're not doing manual handling or other heavy work, a good pair of walking boots will work fine. Otherwise, waterproof
+If you're not doing manual handling or other heavy work, sturdy closed toe footwear such as a good pair of walking boots will work fine. Otherwise, waterproof
 steel-toed boots are strongly recommended.
 
 ### Alcohol
 
-We don't mind people drinking alcohol on site outside of the core working hours. You must leave at least 8 hours between
+We don't mind people drinking alcohol on site outside of the core working hours. You **must** leave at least 8 hours between
 drinking alcohol and driving any vehicles on site.
 
 ## Emergencies
 
 In case of a medical issue, a first aid kit is available in HQ. A contact phone for calling 999 is also available in HQ.
-Later during buildup, dedicated first-aiders will be available.
+Later during buildup, dedicated first-aiders will be available, and trained first aiders will be identified in the site induction.
 
 ## Many thanks
 
